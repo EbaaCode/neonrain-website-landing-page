@@ -1,12 +1,10 @@
-
-version: "3.8"
 services:
-	neonrain-website-lannding-page:
-		container_name: neonrain-website-lannding-page
-		build:
-			context: .
-			dockerfile: Dockerfile
-		ports:
-			- "3000:3000"
-		environment:
-			- NODE_ENV=production
+  neonrain-website-landing-page:
+	container_name: neonrain-website-landing-page
+	build:
+	  context: .
+	  dockerfile: Dockerfile
+	ports:
+	  - "3000:3000"
+	environment:
+	  - NODE_ENV=production
