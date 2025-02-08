@@ -8,8 +8,8 @@ const inter = Inter({
 })
 
 export const metadata = {
-	title: "Your Company - Professional Solutions",
-	description: "We deliver innovative solutions to help businesses thrive in the digital age.",
+	title: "NeonRain - Empowering Gamers to Become Creators",
+	description: "A platform offering modding solutions that empower gamers to integrate their own content into their favorite games, enhancing game longevity and creating new revenue streams.",
 }
 
 export default function RootLayout({
