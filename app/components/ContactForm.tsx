@@ -12,7 +12,7 @@ export default function ContactForm() {
 				</p>
 				<div className="space-y-6">
 					<a
-						href="https://calendly.com/your-calendly-link"
+						href="https://calendly.com/omar-neonrain/neonrain"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="w-full bg-[#8038af] text-white font-medium py-3 px-4 rounded-xl flex items-center justify-center"
