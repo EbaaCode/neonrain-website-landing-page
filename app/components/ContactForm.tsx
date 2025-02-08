@@ -4,11 +4,11 @@ import { Calendar, Mail } from "lucide-react"
 
 export default function ContactForm() {
 	return (
-		<section className="py-16">
+		<section className="py-8">
 			<div className="max-w-md mx-auto">
 				<h2 className="text-3xl font-semibold mb-8 text-center tracking-tight">Contact Us</h2>
 				<p className="text-center mb-8 font-light leading-relaxed">
-					Ready to take the next step? Get in touch with us to discuss how we can help your business grow.
+					Have question? Get in touch and let's explore what’s possible!
 				</p>
 				<div className="space-y-6">
 					<a
@@ -29,7 +29,7 @@ export default function ContactForm() {
 						</div>
 					</div>
 					<a
-						href="mailto:contact@yourcompany.com"
+						href="mailto:Info@neonrain.app"
 						className="w-full bg-neutral-200 text-neutral-900 font-medium py-3 px-4 rounded-xl flex items-center justify-center"
 					>
 						Email Us
